@@ -5,3 +5,4 @@ a0.awsstatic.com
 s0.awsstatic.com
 d1.awsstatic.com
 aws1.discourse-cdn.com
+subscription-plan-data.s3.amazonaws.com
