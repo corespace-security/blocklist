@@ -5,3 +5,4 @@ video-edge-c6d454.ams03.abs.hls.ttvnw.net
 embedwistia-a.akamaihd.net
 a.akamaihd.net
 akamaihd.net
+fp-vp.azureedge.net
