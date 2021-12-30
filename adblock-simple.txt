@@ -18,6 +18,7 @@ fp-as-nocache.azureedge.net
 fp-vp.azureedge.net
 fp-vs.azureedge.net
 fp-vp-nocache.azureedge.net
+odinvzc.azureedge.net
 
 static.zdassets.com
 onecomhelp.zendesk.com
@@ -58,3 +59,4 @@ example.org
 i0.wp.com
 partly-divine-monitor.edgecompute.app
 serverless-benchmarks-js.compute-pipe.com
+sl

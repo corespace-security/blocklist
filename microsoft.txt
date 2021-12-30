@@ -2,9 +2,13 @@ tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 
 6-c-0003.c-msedge.net
-t-ring.msedge.net
+a-ring.msedge.net
+b-ring.msedge.net
 k-ring.msedge.net
+l-ring.msedge.net
 o-ring.msedge.net
+t-ring.msedge.net
+teams-ring.msedge.net
 win10-trt.msedge.net
 
 edgedl.me.gvt1.com
@@ -18,5 +22,8 @@ skydrive.wns.windows.com
 
 onedriveclucprodbn20024.blob.core.windows.net
 onedriveclucproddm20043.blob.core.windows.net
+onedriveclucproddm20001.blob.core.windows.ne
 
 winhelp2002.mvps.org
+
+substrate.office.com
