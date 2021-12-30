@@ -1,0 +1,6 @@
+xjmeanyr58.execute-api.us-west-2.amazonaws.com
+det-ta-g7g.amazon.com
+video-weaver.ams03.hls.ttvnw.net
+a0.awsstatic.com
+s0.awsstatic.com
+d1.awsstatic.com

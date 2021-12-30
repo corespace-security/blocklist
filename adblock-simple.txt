@@ -1,0 +1,7 @@
+adservice.google.com
+0fc064034a1988211a2472ee3d9d7956.clo.footprintdns.com
+az700632.vo.msecnd.net
+video-edge-c6d454.ams03.abs.hls.ttvnw.net
+embedwistia-a.akamaihd.net
+a.akamaihd.net
+akamaihd.net
