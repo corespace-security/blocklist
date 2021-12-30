@@ -9,6 +9,9 @@
 1.0.17.172.in-addr.arpa
 1.0.18.172.in-addr.arpa
 1.0.20.172.in-addr.arpa
+153.129.18.31.in-addr.arpa
+177.112.1.14.in-addr.arpa
+1.0.21.172.in-addr.arpa
 9.b.0.d.c.f.5.c.f.b.7.7.c.1.5.d.c.b.c.2.0.c.c.3.8.0.1.8.2.0.a.2.ip6.arpa
 b.a.0.5.0.a.5.f.9.7.8.c.1.a.4.d.c.b.c.2.0.c.c.3.8.0.1.8.2.0.a.2.ip6.arpa
 e.2.9.4.2.f.a.9.0.2.e.e.5.e.5.d.c.b.c.2.0.c.c.3.8.0.1.8.2.0.a.2.ip6.arpa
