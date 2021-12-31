@@ -8,6 +8,7 @@ fp-vp.azureedge.net
 akamaihd.net
 a.akamaihd.net
 embedwistia-a.akamaihd.net
+coub-anubis-a.akamaized.net
 
 a0.awsstatic.com
 s0.awsstatic.com
@@ -67,4 +68,6 @@ example.org
 i0.wp.com
 partly-divine-monitor.edgecompute.app
 serverless-benchmarks-js.compute-pipe.com
+de.dscg.ubirch.com
+distribution.dcc-rules.de
 sl
