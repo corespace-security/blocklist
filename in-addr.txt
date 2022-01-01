@@ -15,6 +15,27 @@
 1.0.21.172.in-addr.arpa
 27.23.137.45.in-addr.arpa
 182.172.114.46.in-addr.arpa
+154.29.198.111.in-addr.arpa
+8.143.163.89.in-addr.arpa
+213.52.98.198.in-addr.arpa
+48.216.192.212.in-addr.arpa
+31.138.94.167.in-addr.arpa
+41.138.94.167.in-addr.arpa
+137.186.80.88.in-addr.arpa
+68.139.105.184.in-addr.arpa
+245.51.98.198.in-addr.arpa
+131.192.215.180.in-addr.arpa
+15.240.88.146.in-addr.arpa
+150.67.83.45.in-addr.arpa
+205.26.10.45.in-addr.arpa
+108.139.105.184.in-addr.arpa
+53.35.173.185.in-addr.arpa
+222.222.67.208.in-addr.arpa
+154.104.245.157.in-addr.arpa
+92.20.224.149.in-addr.arpa
+1.174.114.46.in-addr.arpa
+1.111.94.185.in-addr.arpa
+1.111.94.185.in-addr.arpa
 
 9.b.0.d.c.f.5.c.f.b.7.7.c.1.5.d.c.b.c.2.0.c.c.3.8.0.1.8.2.0.a.2.ip6.arpa
 b.a.0.5.0.a.5.f.9.7.8.c.1.a.4.d.c.b.c.2.0.c.c.3.8.0.1.8.2.0.a.2.ip6.arpa

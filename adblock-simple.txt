@@ -46,6 +46,7 @@ scontent-dus1-1.xx.fbcdn.net
 datacollector-dre.dt.hicloud.com
 connect-dre.hispace.hicloud.com
 
+*.in-addr.arpa
 example.com
 i.scdn.co
 40966.playfabapi.com
