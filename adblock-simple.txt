@@ -2,6 +2,7 @@
 646711795f5a78e22c004ca69fff27e4.clo.footprintdns.com
 976e647280cea5b2fd76a5b9d5a7b167.nrb.footprintdns.com
 f46f0dc623faf22d35fe14403a10cd25.clo.footprintdns.com
+1417ee8d692751eecbc97d9609c18f83.clo.footprintdns.com
 
 fp-vp.azureedge.net
 

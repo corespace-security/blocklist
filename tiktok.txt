@@ -17,15 +17,5 @@ pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
 pull-f5-tt01.fcdn.us.tiktokv.com
 tnc16-platform-alisg.tiktokv.com
 
-pull-cmaf-f16-sg01.ttlivecdn.com
-push-rtmp-f5-gcp01.ttlivecdn.com
-pull-hls-f16-va01.ttlivecdn.com
-pull-cmaf-f16-va01.ttlivecdn.com
-push-rtmp-f5-sg01.ttlivecdn.com
-pull-f5-gcp01.ttlivecdn.com
-pull-hls-f16-sg01.ttlivecdn.com
-push-rtmp-f5-va01.ttlivecdn.com
-pull-f5-sg01.ttlivecdn.com
-
 video-edge-c6d454.ams03.abs.hls.ttvnw.net
 video-weaver.ams03.hls.ttvnw.net

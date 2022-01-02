@@ -1,5 +1,6 @@
 _ldap._tcp.dc._msdcs.fritz.box
 
+*.fritz.box
 zfiopgilgy.fritz.box
 epscaxbtgzvaqu.fritz.box
 dyzgqynxemfut.fritz.box
